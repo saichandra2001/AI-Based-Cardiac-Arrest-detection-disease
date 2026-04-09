@@ -1,0 +1,10 @@
+conda activate base
+
+conda activate your_env_name
+
+conda install scikit-learn
+
+cd C:\Users\GROVEER\Heart_Disease_App
+
+
+python app.py
