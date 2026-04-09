@@ -1,7 +1,7 @@
 # AI-Based-Cardiac-Arrest-detection-disease
 
 ## Overview
-This project predicts the likelihood of heart disease using machine learning algorithms.
+This project predicts the likelihood of Cardiac Arrest detection disease using machine learning algorithms.
 
 ## Technologies Used
 - Python
