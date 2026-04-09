@@ -42,7 +42,7 @@ Achieved approximately **82% accuracy** on test data.
     └── templates/
     └── index.html
 
-## Web Link ##: https://ai-based-cardiac-arrest-detection-disease.onrender.com/
+## Web Link: https://ai-based-cardiac-arrest-detection-disease.onrender.com/
   
 ## How to Run Locally
 ```bash
