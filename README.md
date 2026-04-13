@@ -23,7 +23,7 @@ Final Model: **Support Vector Machine (SVM)**
 Achieved approximately **82% accuracy** on test data.
 
 ## Live Demo
-(Add your Render link here)
+ https://ai-based-cardiac-arrest-detection-disease.onrender.com/
 
 ## Features
 - User-friendly web interface
@@ -42,7 +42,7 @@ Achieved approximately **82% accuracy** on test data.
     └── templates/
     └── index.html
 
-## Web Link: https://ai-based-cardiac-arrest-detection-disease.onrender.com/
+
   
 ## How to Run Locally
 ```bash
